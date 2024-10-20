@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Vesa-Esp.PcbDoc   10/20/2024  15:39:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Vesa-Esp-RoundHoles.TXT
+ASCII SlotHoles File : Vesa-Esp-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             270       PTH        1732.54mm (68.21inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.14mm (1.50inch)
+T3      1mm (39mil)                                               Round             15        PTH        33.43mm (1.32inch)
+T4      1.1mm (43mil)                                             Round             9         PTH        30.29mm (1.19inch)
+T5      3.2mm (126mil)                                            Round             2         PTH        24.99mm (0.98inch)
+T6      0.6mm (24mil)                                             Round             2         NPTH       5.78mm (0.23inch)
+T7      0.991mm (39mil)                                           Round             3         NPTH       9.72mm (0.38inch)
+T8      2.375mm (94mil)                                           Round             4         NPTH       15.88mm (0.63inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              309
+
+Total Processing Time (hh:mm:ss) : 00:00:00
