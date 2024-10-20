@@ -137,10 +137,6 @@ Variation7=Designator=R48|UniqueId=\KRWZWMTH|Kind=1|AlternatePart=
 Variation8=Designator=R49|UniqueId=\ZMJDNCON|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for VESA-ESP-Backplate\Design Rule Check - Vesa-Esp-Backplate.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
