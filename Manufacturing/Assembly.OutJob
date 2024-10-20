@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Assembly.OutJob
 Description=
 TargetOutputMedium=3D Model
 VariantName=Manufacturing
@@ -256,19 +256,17 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration9_Name1=ColumnNameFormat
 Configuration9_Item1=CaptionAsName
 Configuration9_Name2=General
-Configuration9_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\WORK\t_hw\90 Development\231006 Smart Cell Emulator\Design Files\BOM Template ActiveBom.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1920|FormHeight=1034|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration9_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\WORK\t_hw\90 Development\231006 Smart Cell Emulator\Design Files\BOM Template ActiveBom.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1920|FormHeight=1034|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration9_Name3=GroupOrder
 Configuration9_Item3=Comment=True|Footprint=True
-Configuration9_Name4=SortOrder
-Configuration9_Item4=Designator=Up|Comment=Up|Footprint=Up
-Configuration9_Name5=VisibleOrder
-Configuration9_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Layer=100
-Configuration9_Name6=VisibleOrder_Base
-Configuration9_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Layer=100
-Configuration9_Name7=VisibleOrder_Consolidated
-Configuration9_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116|Quantity@VO OPA2992IDDFR - Production=100|Price@VO OPA2992IDDFR - Production=100|Quantity@VO OPA2196IDR - Production=100|Price@VO OPA2196IDR - Production=100|Quantity@CO OPA2196IDR - Production=100|Price@CO OPA2196IDR - Production=100
-Configuration9_Name8=VisibleOrder_Flat
-Configuration9_Item8=Line #=53|Comment=52|Description=79|Designator=77|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
+Configuration9_Name4=VisibleOrder
+Configuration9_Item4=Comment=120|Description=120|Designator=120|LibRef=120|Quantity=120|Layer=100|MPN=250
+Configuration9_Name5=VisibleOrder_Base
+Configuration9_Item5=Comment=120|Description=120|Designator=120|LibRef=120|Quantity=120|Layer=100|MPN=250
+Configuration9_Name6=VisibleOrder_Consolidated
+Configuration9_Item6=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116|Quantity@VO OPA2992IDDFR - Production=100|Price@VO OPA2992IDDFR - Production=100|Quantity@VO OPA2196IDR - Production=100|Price@VO OPA2196IDR - Production=100|Quantity@CO OPA2196IDR - Production=100|Price@CO OPA2196IDR - Production=100
+Configuration9_Name7=VisibleOrder_Flat
+Configuration9_Item7=Line #=53|Comment=52|Description=79|Designator=77|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=75|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
 
 [PublishSettings]
 OutputFilePath2=D:\svn\t_hw\90 Development\220308 Cell Emulator\Design Files\Project Outputs for CELL emulator\
