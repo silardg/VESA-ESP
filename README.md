@@ -26,6 +26,9 @@ The GitHub repository contains:
 - ✅ PCB layout files  
 - ⏳ Firmware (coming soon!)
 
+## Mechanical 
+Link to the mechanical files for the Revision 1.0 can be found [here](/Hardware/Main/Manufacturing/Revision%201.0/Dimensions.pdf) and additional information can be found [here](/Hardware/Main/Manufacturing/Revision%201.0/Draftsmen.pdf).
+
 ## Media Coverage
 - 🔗 [Official WebPage](https://silardgal.com/projects/vesaesp.html)
 - 🔗 [LinkedIn Post](https://www.linkedin.com/posts/silard-gal_hobby-project-finally-finished-this-activity-7321973185086722048-SGIh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrF-M4BCWfQST6Wu2K1D1uSqOy6Awv4JLw)
