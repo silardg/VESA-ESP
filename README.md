@@ -27,7 +27,8 @@ The GitHub repository contains:
 - ⏳ Firmware (coming soon!)
 
 ## Media Coverage
-
+- 🔗 [Official WebPage](https://silardgal.com/projects/vesaesp.html)
+- 🔗 [LinkedIn Post](https://www.linkedin.com/posts/silard-gal_hobby-project-finally-finished-this-activity-7321973185086722048-SGIh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrF-M4BCWfQST6Wu2K1D1uSqOy6Awv4JLw)
 - 🔗 [Hackaday.io Project Page](https://hackaday.io/project/203136-vesa-esp)
 - 🔗 [Hackster.io — Gareth Halfacree’s writeup](https://www.hackster.io/news/silard-gal-s-vesa-esp-puts-an-espressif-esp32-s3-on-the-back-of-any-vesa-compatible-display-0b7a13a0985f)
 - More coverage coming soon!
@@ -39,5 +40,40 @@ The GitHub repository contains:
 - 🛒 Launch for sale  
 
 ---
+
+## Folder Structure
+
+```plaintext
+├── Hardware/
+│   ├── Main/
+│   │   ├── Manufacturing/
+│   │   │   └── Revision 1.0/
+│   │   │       ├── Assembly Manufacturing/
+│   │   │       ├── Fabrication/
+│   │   │       └── Sources/
+│   │   ├── Pcb/
+│   │   └── Sch/
+│   │
+│   ├── Backplate/
+│   │   ├── Manufacturing/
+│   │   │   └── Revision 1.0/
+│   │   │       ├── Fabrication/
+│   │   │       └── Sources/
+│   │   ├── Pcb/
+│   │   └── Sch/
+│   │
+│   ├── Library/
+│   │   └── *.LibPkg, *.PcbLib, *.SchLib
+│   │
+│   └── Documents/
+│       └── logo.png
+│
+├── Docs/
+│   └── IMG_1070.jpg, IMG_1074.jpg, ...
+│
+├── Software/
+│   └── (To be added soon)
+│
+└── README.md
 
 **Stay tuned!** Firmware and more updates are on the way.
