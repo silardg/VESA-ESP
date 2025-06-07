@@ -160,7 +160,7 @@ UniqueID=0ACCE6B6-63D2-4BF3-AF41-CE0447A3DD5F
 Description=Manufacturing
 AllowFabrication=1
 ParameterCount=0
-VariationCount=11
+VariationCount=12
 Variation1=Designator=R21|UniqueId=\CXYHPLPV|Kind=0|AlternatePart= 
 Variation2=Designator=R51|UniqueId=\NAWLCGXM|Kind=0|AlternatePart= 
 Variation3=Designator=R50|UniqueId=\OIUBJVJV|Kind=0|AlternatePart= 
@@ -172,6 +172,7 @@ Variation8=Designator=R55|UniqueId=\IIVBTLFH|Kind=1|AlternatePart=
 Variation9=Designator=R57|UniqueId=\USBPTZGR|Kind=1|AlternatePart= 
 Variation10=Designator=R59|UniqueId=\MPFNKRQD|Kind=1|AlternatePart= 
 Variation11=Designator=R60|UniqueId=\BRIIJDVR|Kind=1|AlternatePart= 
+Variation12=Designator=R15|UniqueId=\JDXENQVH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
