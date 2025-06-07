@@ -50,7 +50,7 @@ PrefsRevisionGUID=
 
 [Release]
 ReleaseTarget=1
-ReleaseFolderPath=C:\Users\Public\Documents\Altium\Projects\VESA-ESP\VESA_ESP\Manufacturing\Revision 1.0
+ReleaseFolderPath=C:\Users\Public\Documents\Altium\Projects\VESA-ESP\VESA_ESP\Manufacturing\Files\
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
