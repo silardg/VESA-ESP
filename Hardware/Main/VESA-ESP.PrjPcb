@@ -160,17 +160,23 @@ UniqueID=0ACCE6B6-63D2-4BF3-AF41-CE0447A3DD5F
 Description=Manufacturing
 AllowFabrication=1
 ParameterCount=0
-VariationCount=9
-Variation1=Designator=R21|UniqueId=\CXYHPLPV|Kind=1|AlternatePart= 
-Variation2=Designator=R51|UniqueId=\NAWLCGXM|Kind=1|AlternatePart= 
-Variation3=Designator=R50|UniqueId=\OIUBJVJV|Kind=1|AlternatePart= 
-Variation4=Designator=R52|UniqueId=\IPTNSMIG|Kind=1|AlternatePart= 
-Variation5=Designator=R53|UniqueId=\FIPXPUTG|Kind=1|AlternatePart= 
+VariationCount=11
+Variation1=Designator=R21|UniqueId=\CXYHPLPV|Kind=0|AlternatePart= 
+Variation2=Designator=R51|UniqueId=\NAWLCGXM|Kind=0|AlternatePart= 
+Variation3=Designator=R50|UniqueId=\OIUBJVJV|Kind=0|AlternatePart= 
+Variation4=Designator=R52|UniqueId=\IPTNSMIG|Kind=0|AlternatePart= 
+Variation5=Designator=R53|UniqueId=\FIPXPUTG|Kind=0|AlternatePart= 
 Variation6=Designator=R48|UniqueId=\KRWZWMTH|Kind=1|AlternatePart= 
 Variation7=Designator=R15|UniqueId=\CFEVAAYL|Kind=1|AlternatePart= 
 Variation8=Designator=R55|UniqueId=\IIVBTLFH|Kind=1|AlternatePart= 
 Variation9=Designator=R57|UniqueId=\USBPTZGR|Kind=1|AlternatePart= 
+Variation10=Designator=R59|UniqueId=\MPFNKRQD|Kind=1|AlternatePart= 
+Variation11=Designator=R60|UniqueId=\BRIIJDVR|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for VESA-ESP\Design Rule Check - Vesa-Esp.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
