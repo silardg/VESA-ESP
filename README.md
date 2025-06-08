@@ -26,6 +26,9 @@ The GitHub repository contains:
 - ✅ PCB layout files  
 - ⏳ Firmware (coming soon!)
 
+## Documentation
+The documentation can be found [here](Docs/DOC.md).
+
 ## Mechanical 
 Link to the mechanical files can be found [here](Hardware/Main/Manufacturing/Files/Assembly%20Manufacturing/VESA-ESP%20(Manufacturing)%20Dimensions.pdf).
 
@@ -36,7 +39,7 @@ Link to the mechanical files can be found [here](Hardware/Main/Manufacturing/Fil
 - 🔗 [Hackster.io — Gareth Halfacree’s writeup](https://www.hackster.io/news/silard-gal-s-vesa-esp-puts-an-espressif-esp32-s3-on-the-back-of-any-vesa-compatible-display-0b7a13a0985f)
 - More coverage coming soon!
 
-## Licences
+## Licenses
 
 ![](Docs/Licences/licences.png)
 
