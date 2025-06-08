@@ -1,6 +1,6 @@
 # VESA-Mountable ESP32-S3 with VGA Output
 
-![](Docs/IMG_1070.jpg)
+![](Docs/Images/IMG_1070.jpg)
 
 ## Overview
 
@@ -27,7 +27,7 @@ The GitHub repository contains:
 - ⏳ Firmware (coming soon!)
 
 ## Mechanical 
-Link to the mechanical files for the Revision 1.0 can be found [here](/Hardware/Main/Manufacturing/Revision%201.0/Dimensions.pdf) and additional information can be found [here](/Hardware/Main/Manufacturing/Revision%201.0/Draftsmen.pdf).
+Link to the mechanical files can be found [here](Hardware/Main/Manufacturing/Files/Assembly%20Manufacturing/VESA-ESP%20(Manufacturing)%20Dimensions.pdf).
 
 ## Media Coverage
 - 🔗 [Official WebPage](https://silardgal.com/projects/vesaesp.html)
@@ -36,47 +36,10 @@ Link to the mechanical files for the Revision 1.0 can be found [here](/Hardware/
 - 🔗 [Hackster.io — Gareth Halfacree’s writeup](https://www.hackster.io/news/silard-gal-s-vesa-esp-puts-an-espressif-esp32-s3-on-the-back-of-any-vesa-compatible-display-0b7a13a0985f)
 - More coverage coming soon!
 
-## Roadmap
+## Licences
 
-- 📄 Apply for **Open Source Hardware (OSHW)** certification  
-- 🛠 Optimize design for manufacturing (DFM)  
-- 🛒 Launch for sale  
+![](Docs/Licences/licences.png)
 
 ---
-
-## Folder Structure
-
-```plaintext
-├── Hardware/
-│   ├── Main/
-│   │   ├── Manufacturing/
-│   │   │   └── Revision 1.0/
-│   │   │       ├── Assembly Manufacturing/
-│   │   │       ├── Fabrication/
-│   │   │       └── Sources/
-│   │   ├── Pcb/
-│   │   └── Sch/
-│   │
-│   ├── Backplate/
-│   │   ├── Manufacturing/
-│   │   │   └── Revision 1.0/
-│   │   │       ├── Fabrication/
-│   │   │       └── Sources/
-│   │   ├── Pcb/
-│   │   └── Sch/
-│   │
-│   ├── Library/
-│   │   └── *.LibPkg, *.PcbLib, *.SchLib
-│   │
-│   └── Documents/
-│       └── logo.png
-│
-├── Docs/
-│   └── IMG_1070.jpg, IMG_1074.jpg, ...
-│
-├── Software/
-│   └── (To be added soon)
-│
-└── README.md
 
 **Stay tuned!** Firmware and more updates are on the way.
