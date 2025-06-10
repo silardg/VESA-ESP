@@ -18,6 +18,8 @@ The *3D VIEW* can be found [here](../Hardware/Main/Manufacturing/Files/Assembly%
 - Inputs
 - SD Card
 
+### How to use it and install it?
+
 ## Software/Firmware
 ### VGA Output
 ### SD Card Interfacing

@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Main\VESA-ESP.PrjPcb
-[Project2]
 ProjectPath=Library\VESA-ESP_LIB.LibPkg
+[Project2]
+ProjectPath=Main\VESA-ESP.PrjPcb
