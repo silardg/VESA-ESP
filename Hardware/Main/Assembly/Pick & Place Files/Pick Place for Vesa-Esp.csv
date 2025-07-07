@@ -1,31 +1,31 @@
 Altium Designer Pick and Place Locations
-C:\Users\DarkOS\AppData\Local\TempReleases\Snapshot\2\Assembly Manufacturing\Pick & Place Files\Pick Place for Vesa-Esp(Manufacturing).csv
+C:\Users\DarkOS\Documents\VESA-ESP\Hardware\Main\Assembly\Pick & Place Files\Pick Place for Vesa-Esp.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       08/06/25
-Time:       01:56
-Revision:   Not in VersionControl
-Variant:    Manufacturing
+Date:       07/07/25
+Time:       10:19
+Revision:   25ee86c3b15d2f5a40417817c9c1adf8dfe3a404
+Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
-"R21","22K1 1%","TopLayer","RESC1608X06N","25.2750","5.3250","270","22.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"TP5","TP","TopLayer","TESTPOINT","-7.0500","10.6000","90","Test Point"
+"TP4","TP","TopLayer","TESTPOINT","-21.0250","-13.0750","90","Test Point"
+"J6","Conn_2.54mm_4POS","TopLayer","CONN_2.54MM_4POS","20.2500","-0.0600","270","Conn_2.54mm_4POS"
+"TP3","TP","TopLayer","TESTPOINT","-8.3250","10.6000","270","Test Point"
+"TP2","TP","TopLayer","TESTPOINT","-9.5950","10.6000","270","Test Point"
+"TP1","TP","TopLayer","TESTPOINT","-10.8650","10.6000","270","Test Point"
+"R60","10K 1%","TopLayer","RESC1608X06N","-0.8750","7.4250","90","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "U4","CP2102N-A02-GQFN28","TopLayer","QFN50P500X500X80-29N","22.3750","12.1400","0","USB Bridge, USB to UART USB 2.0 UART Interface 28-QFN (5x5)"
-"R58","10K 1%","TopLayer","RESC1608X06N","19.7750","-16.5250","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R56","10K 1%","TopLayer","RESC1608X06N","19.7750","-9.0000","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "Q1","BC847BS-7-F","TopLayer","SOT65P210X110-6N","17.1000","17.4000","90","Bipolar (BJT) Transistor Array 2 NPN (Dual) 45V 100mA 100MHz 200mW Surface Mount SOT-363"
-"C14","100nF 50V","TopLayer","CAPC1608X06N","23.8083","5.3250","90","0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
 "R54","300R 1%","TopLayer","RESC1608X06N","3.2000","0.0000","180","300 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R53","10K 1%","TopLayer","RESC1608X06N","19.2750","17.4000","90","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R52","10K 1%","TopLayer","RESC1608X06N","14.8750","17.4000","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R51","10K 1%","TopLayer","RESC1608X06N","22.8500","7.9000","180","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R50","47K5 1%","TopLayer","RESC1608X06N","22.3417","5.3250","90","47.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R49","10K 1%","TopLayer","RESC1608X06N","19.7750","-1.5000","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"J6","Conn_2.54mm_3POS","TopLayer","CONN_2.54MM_3POS","25.0000","-15.0500","180","Conn_2.54mm_3POS"
-"J5","Conn_2.54mm_3POS","TopLayer","CONN_2.54MM_3POS","25.0000","-7.5250","180","Conn_2.54mm_3POS"
-"J4","Conn_2.54mm_3POS","TopLayer","CONN_2.54MM_3POS","25.0000","0.0000","180","Conn_2.54mm_3POS"
+"R51","10K 1%","TopLayer","RESC1608X06N","22.3500","7.9000","180","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"J5","Conn_2.54mm_4POS","TopLayer","CONN_2.54MM_4POS","26.2500","-0.0600","270","Conn_2.54mm_4POS"
+"J4","Conn_2.54mm_4POS","TopLayer","CONN_2.54MM_4POS","23.2500","-0.0600","270","Conn_2.54mm_4POS"
 "D1","QBLP601-IW","TopLayer","LEDC1608X06N","-0.0250","0.0000","0","White LED Indication - Discrete 3.2V 0603 (1608 Metric)"
 "U3","USBLC6-2SC6","TopLayer","SOT95P245X100-6N","6.9500","22.4000","270","17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
 "U2","AP63203WU-7","TopLayer","SOT95P245X100-6N","6.2250","13.2250","270","Buck Switching Regulator IC Positive Fixed 3.3V 1 Output 2A SOT-23-6 Thin, TSOT-23-6"
