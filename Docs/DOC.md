@@ -24,7 +24,7 @@ The *3D VIEW* can be found [here](../Hardware/Main/Manufacturing/Assembly/VESA-E
 - Step #3 Greeted by welcome message (in case the device was sourced from us, if not, follow the below instructions to flash it)
 ![](Images/IMG_2060.jpg)
 
-The device is made so that it can be mounted on the back of monit   ors using the two groups of screws.
+The device is made so that it can be mounted on the back of monitors using the two groups of screws.
 ![](Images/IMG_1074.jpg)
 
 The additional adapter plate is there to allow using stands with the device. 
