@@ -22,13 +22,13 @@ The *3D VIEW* can be found [here](../Hardware/Main/Manufacturing/Assembly/VESA-E
 - Step #1 VGA: Connect a VGA cable to a VGA compatible monitor/tv
 - Step #2 Power: USB-C, 5V
 - Step #3 Greeted by welcome message (in case the device was sourced from us, if not, follow the below instructions to flash it)
-![](Docs/Images/IMG_2060.jpg)
+![](Images/IMG_2060.jpg)
 
-The device is made so that it can be mounted on the back of monitors using the two groups of screws.
-![](Docs/Images/IMG_1074.jpg)
+The device is made so that it can be mounted on the back of monit   ors using the two groups of screws.
+![](Images/IMG_1074.jpg)
 
 The additional adapter plate is there to allow using stands with the device. 
-![](Docs/Images/IMG_1070.jpg)
+![](Images/IMG_1070.jpg)
 
 ## Software/Firmware
 ### Setup the software
