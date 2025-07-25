@@ -24,7 +24,7 @@ The GitHub repository contains:
 
 - ✅ Schematic files  
 - ✅ PCB layout files  
-- ⏳ Firmware (coming soon!)
+- ✅ Firmware
 
 ## Documentation
 The documentation can be found [here](Docs/DOC.md).
@@ -43,6 +43,3 @@ Link to the mechanical files can be found [here](Hardware/Main/Manufacturing/Fil
 
 ![](Docs/Licences/licences.png)
 
----
-
-**Stay tuned!** Firmware and more updates are on the way.
