@@ -30,7 +30,7 @@ The GitHub repository contains:
 The documentation can be found [here](Docs/DOC.md).
 
 ## Mechanical 
-Link to the mechanical files can be found [here](Hardware/Main/Manufacturing/Files/Assembly%20Manufacturing/VESA-ESP%20(Manufacturing)%20Dimensions.pdf).
+Link to the mechanical files can be found [here](Hardware/Main/Manufacturing/Assembly/Dimensions.pdf).
 
 ## Media Coverage
 - 🔗 [Official WebPage](https://silardgal.com/projects/vesaesp.html)
