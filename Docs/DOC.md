@@ -1,11 +1,11 @@
 # VESA-ESP Documentation
 ## Hardware
 ### Links
-The *SCHEMATIC* can be found [here](../Hardware/Main/Manufacturing/Files/Assembly%20Manufacturing/VESA-ESP%20([No%20Variations])%20Schematic.PDF).
+The *SCHEMATIC* can be found [here](../Hardware/Main/Manufacturing/Assembly/VESA-ESP%20([No%20Variations])%20Schematic.PDF).
 
-The *ASSEMBLY* can be found [here](../Hardware/Main/Manufacturing/Files/Assembly%20Manufacturing/VESA-ESP%20([No%20Variations])%20Assembly%20Drawing.PDF).
+The *ASSEMBLY* can be found [here](../Hardware/Main/Manufacturing/Assembly/VESA-ESP%20([No%20Variations])%20Assembly%20Drawing.PDF).
 
-The *3D VIEW* can be found [here](../Hardware/Main/Manufacturing/Files/Assembly%20Manufacturing/VESA-ESP%20([No%20Variations])%20PCB%203D%20Printout.PDF).
+The *3D VIEW* can be found [here](../Hardware/Main/Manufacturing/Assembly/VESA-ESP%20([No%20Variations])%20PCB%203D%20Printout.PDF).
 
 ### Block Diagram
 ![](../Docs/Images/blockdiagram.png)
