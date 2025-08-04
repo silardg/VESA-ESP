@@ -1,6 +1,6 @@
 # VESA-Mountable ESP32-S3 with VGA Output
 
-![](Docs/Images/IMG_1070.jpg)
+![](Docs/Images/vesa_main_whitebackground.jpg)
 
 ## Overview
 
@@ -13,6 +13,8 @@ The core idea is simple: create a **microcontroller-based VGA device** that can 
 - **VGA from a microcontroller**: VGA video from the ESP32-S3 is no small feat.
 - **Compact design**: Mounts directly behind your monitor using standard VESA mounting holes.
 - **Open Hardware**: Schematics and PCB designs are fully available.
+
+![](Docs/Images/vesa_mounted.jpg)
 
 ## Shoutout
 
@@ -32,6 +34,11 @@ The documentation can be found [here](Docs/DOC.md).
 ## Mechanical 
 Link to the mechanical files can be found [here](Hardware/Main/Manufacturing/Assembly/Dimensions.pdf).
 
+## Certification
+![](Docs/Images/certification-mark-RS000001-stacked.png)
+
+You can view more [here](https://certification.oshwa.org/rs000001.html) about the certification. P.S. First OSHWA in Serbia!
+
 ## Media Coverage
 - 🔗 [Official WebPage](https://silardgal.com/projects/vesaesp.html)
 - 🔗 [LinkedIn Post](https://www.linkedin.com/posts/silard-gal_hobby-project-finally-finished-this-activity-7321973185086722048-SGIh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrF-M4BCWfQST6Wu2K1D1uSqOy6Awv4JLw)
@@ -40,6 +47,5 @@ Link to the mechanical files can be found [here](Hardware/Main/Manufacturing/Ass
 - More coverage coming soon!
 
 ## Licenses
-
 ![](Docs/Licences/licences.png)
 
